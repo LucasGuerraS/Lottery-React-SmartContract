@@ -1,6 +1,8 @@
 import logo from "./logo.svg";
 import "./App.css";
 import React from "react";
+// eslint-disable-next-line no-unused-vars
+import web3 from "./web3";
 
 class App extends React.Component {
   render() {
